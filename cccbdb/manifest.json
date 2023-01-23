@@ -3,6 +3,11 @@
   "version": "1.0",
   "name": "CCCBDB Extensions",
   "description": "Extract Vibrational Frequencies from CCCBDB pages",
+  "icons": {
+    "16": "img/logo16.png",
+    "48": "img/logo48.png",
+    "128": "img/logo128.png"
+  },
   "content_scripts": [
     {
       "js": [
