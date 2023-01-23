@@ -1,0 +1,10 @@
+* Installation
+  - Clone the repo:
+  #+begin_src shell
+    $ git clone https://github.com/ntBre/chrome-extensions
+  #+end_src
+  - Open your Chrome-based browser
+  - Navigate to your extensions
+  - Toggle on "Developer mode"
+  - Click "Load unpacked"
+  - Select the "cccbdb" directory inside of chrome-extensions
