@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "version": "1.0",
+  "name": "CCCBDB Extensions",
+  "description": "Extract Vibrational Frequencies from CCCBDB pages",
+  "content_scripts": [
+    {
+      "js": [
+        "cccbdb.js"
+      ],
+      "matches": [
+        "https://cccbdb.nist.gov/exp2x.asp"
+      ]
+    }
+  ]
+}
